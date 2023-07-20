@@ -20,6 +20,7 @@
 
 <a href="https://www.linkedin.com/in/mohamad0ahmad/" target="_blank"><img src="https://img.shields.io/badge/-Mohamad A%20Hassan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=black"/></a>
 <a href="https://t.me/mo7amad_a7mad" target="_blank"><img src="https://img.shields.io/badge/-Mohamad A%20Hassan-0077B5?style=for-the-badge&logo=Telegram&logoColor=black"/></a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHxGzWfcLsRrZxVvXQfSPbMbhmtQTqSFjZPxbKzTlwlwfrlckqqrJzGqLvhxSGsdGJLSChS" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -27,10 +28,10 @@
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
+![C](https://img.shileds.io/badge/-C)&nbsp;
 
 <br>
-<a href="https://komarev.com/ghpvc/?username=MahmoudAbdul-kareemAwad&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=mohamad0ahmad&style=for-the-badge">
     <img align="left" src="https://komarev.com/ghpvc/?username=mohamad0ahmad&style=for-the-badge">
 </a>
   
