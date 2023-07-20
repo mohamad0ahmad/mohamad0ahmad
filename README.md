@@ -16,19 +16,21 @@
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 76% height=30px>
 
-### Connect with Me :
+- ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/mohamad0ahmad/" target="_blank"><img src="https://img.shields.io/badge/-Mohamad A%20Hassan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=black"/></a>
+<a href="mailto:mahamad00ahmad@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mohamad%20A%20Hassan-0077B5?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
 <a href="https://t.me/mo7amad_a7mad" target="_blank"><img src="https://img.shields.io/badge/-Mohamad A%20Hassan-0077B5?style=for-the-badge&logo=Telegram&logoColor=black"/></a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHxGzWfcLsRrZxVvXQfSPbMbhmtQTqSFjZPxbKzTlwlwfrlckqqrJzGqLvhxSGsdGJLSChS" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-### 🛠 &nbsp;Tech Stack
 
 
+- ### Languages and Tools 🛠 : 
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![C](https://img.shileds.io/badge/-C)&nbsp;
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+
+- ### I’m currently learning 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=black)&nbsp;
 
 <br>
 <a href="https://komarev.com/ghpvc/?username=mohamad0ahmad&style=for-the-badge">
