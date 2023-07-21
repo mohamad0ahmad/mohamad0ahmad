@@ -3,6 +3,8 @@
 <h3 align="center">
   Welcome to Mohamad Ahmad Hassan's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -30,7 +32,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 - ### I’m currently learning 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=black)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 <br>
 <a href="https://komarev.com/ghpvc/?username=mohamad0ahmad&style=for-the-badge">
