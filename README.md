@@ -13,8 +13,8 @@
 
 - 🏢 I am passionate about embedded software engineering.
 - 👨‍💻 As a Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
-- 🌱 I’m currently learning C programing
-- 💬  Ask me about anything [here](https://www.linkedin.com/in/mohamad0ahmad/)
+- 🌱 I’m currently learning C programming.
+- 💬  Ask me about anything [here](https://www.linkedin.com/in/mohamad0ahmad/).
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 76% height=30px>
